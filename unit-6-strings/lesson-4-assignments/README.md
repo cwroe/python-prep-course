@@ -1,0 +1,2 @@
+# Assignments
+A few easy assignments on strings. Have them work with indexing, slicing, for loops and strings, while loops and strings. String methods (just .lower() or something easy like that), should understand len() as well.

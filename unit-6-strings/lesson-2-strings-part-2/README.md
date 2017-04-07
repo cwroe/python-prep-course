@@ -1,0 +1,2 @@
+# Strings- Part 2
+## **NOTE:** At 8:10, he starts going into a lot of string methods. I think it would be good to have a note for this video saying, "Starting at 8:10, don't worry if you don't understand what is going on, we will learn more about this in the future".

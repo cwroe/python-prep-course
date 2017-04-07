@@ -1,0 +1,2 @@
+# Assignments
+Assignments on creating lists, indexing lists, concatenating lists, slicing lists, ‘in’ and ‘not in’. For dicts, how to create one, update the values, loop through it (.keys(), .values(), and .items()). For tuples: create a tuple, index it, and compare two tuples.
