@@ -1,0 +1,2 @@
+# Assignments
+Assignments on creating functions with no arguments, one argument, and multiple arguments, as well as invoking them. Some assignments that will force them to understand the difference between return vs print? Returning values from their functions into variables they’ve created.
