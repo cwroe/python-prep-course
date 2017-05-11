@@ -1,0 +1,2 @@
+# Return VS Print
+A short video explaining the differences between how `return` works, and how `print()` works inside a function. This is something we need to try to drill into their heads, to by ITP they won’t keep making the mistake of using print() over return or vice versa.

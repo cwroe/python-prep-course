@@ -1,0 +1,2 @@
+# Summary
+Students should how what a function is, how to use some of Python’s built in functions like `min()` or `max()`, and assign the value that is returned into a variable. They should be able to create their own functions; 1-Without Parameters, 2-With one parameter, and 3-With multiple parameters. They should know how to call their function, regardless of how many arguments it takes. They should understand how `return` works, and that inside of their function, no code will run after the `return` statement.

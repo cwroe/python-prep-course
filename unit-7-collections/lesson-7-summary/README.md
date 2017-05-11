@@ -1,0 +1,2 @@
+# Summary
+Students should know What a list is, how to iterate through a list, index a list, what mutable vs immutable means, range(), concatenating two lists, slicing lists, and the concept of ‘in’ and ‘not in’. They should know what a dictionary is, how to make one, how to update values in a dictionary, and somewhat of how to loop through a dictionary (.items(), .values(), .keys()). Finally, they should know what a tuple is, how to create one, how to index one, that a tuple is IMMUTABLE, (and how to compare tuples?)
